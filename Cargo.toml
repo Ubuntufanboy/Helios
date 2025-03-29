@@ -1,0 +1,12 @@
+[package]
+name = "helios"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ubuntufanboy"]
+description = "An 8-bit emulated console made for fun! More features are to come as I work more on this project!"
+
+[dependencies]
+sdl2 = "0.35"
+clap = "2.33"
+rand = "0.8"
+rodio = "0.20.1"
