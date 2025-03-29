@@ -20,11 +20,13 @@ Fully featured 8 bit game console with the following features:
 7. [Future Improvements](#Future-Improvements)
    
 ## Helios-CPU
+![CPU](./img/cpu.png)
 Clock speed: **1 MHz**
 X and Y 8 bit registers
 Fully functional CPU flags
 
 ## Helios-RAM
+![Memory](./img/memory.png)
 28 KB of usable RAM in a 64 KB address space (0x0000 - 0xFFFF) *With some unallocated parts
 Special double buffer memory space (0xF000-0xFC00) and Audio buffering section in RAM. (0xFC00 - 0xFFFF)
 
